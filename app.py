@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 # --- Konfigurasi Halaman Streamlit ---
 st.set_page_config(
     page_title="Aplikasi Prediksi Gaji (Rp)",
-    page_icon="🇮🇩",
+    page_icon="",
     layout="centered"
 )
 
