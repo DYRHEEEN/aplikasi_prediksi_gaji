@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 
 # --- Konfigurasi Halaman Streamlit ---
 st.set_page_config(
-    page_title="Aplikasi Prediksi Gaji (Rp)",
+    page_title="Aplikasi Prediksi Gaji 📈",
     page_icon="",
     layout="centered"
 )
@@ -106,4 +106,4 @@ st.subheader("Hasil Estimasi:")
 st.success(f"Estimasi gaji untuk **{pengalaman} tahun** pengalaman adalah **Rp {prediksi_gaji:,.0f}**")
 
 st.markdown("---")
-st.write("Dibuat dengan semangat lokal 🇮🇩")
+st.write("Dibuat dengan sepenuh hati🥰")
