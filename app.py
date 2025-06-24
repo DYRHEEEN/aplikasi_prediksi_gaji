@@ -29,7 +29,7 @@ def load_and_train_model():
     return model, df, X, y
 
 # --- Judul dan Deskripsi Aplikasi ---
-st.title("🇮🇩 Aplikasi Prediksi Gaji di Indonesia")
+st.title("Aplikasi Prediksi Gaji di Indonesia")
 st.markdown("""
 Aplikasi ini menggunakan **Regresi Linier** untuk memprediksi gaji di Indonesia (dalam Rupiah) berdasarkan pengalaman kerja.
 """)
